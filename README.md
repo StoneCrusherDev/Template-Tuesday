@@ -3,4 +3,4 @@ Each Tuesday I will release one new web template and a tutorial on how to use it
 
 You can download the whole repository and all currently released templates by clicking this button:
 
-![Code Download Button](https://snipboard.io/cZtNx2.jpg)
+![Code Download Button](https://i.imgur.com/gAV6SXH.png)
