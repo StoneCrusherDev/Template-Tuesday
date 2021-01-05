@@ -1,5 +1,5 @@
 # 5th January 2021
 
-**Status:** *Not Released*
+**Status:** *Released*
 
 **Link:** *Not Released*
